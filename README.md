@@ -15,4 +15,4 @@ It Bind/Compile Python Scripts To A One File Native Binary Output.
 
 ## 🌟 Objective
 
-- [1k(1000) Stars] Make my own binder/obfuscator/compiler not manipulable by [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) 
+- [1k(1000) Stars] Make my own obfuscator + binder/compiler not manipulable by [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) 
